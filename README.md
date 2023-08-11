@@ -13,6 +13,10 @@ npm start
 ```
 
 Enjoy...!
+# OUTPUT:- 
 
 ![land_System](https://github.com/itzParthT/Land-Record-Management-System/blob/main/assets/css/land_System.JPG)
+
+![Uploading image.png…]()
+
 
