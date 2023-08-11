@@ -14,4 +14,5 @@ npm start
 
 Enjoy...!
 
-<img src="[pic_trulli.jpg](https://github.com/itzParthT/Land-Record-Management-System/blob/main/assets/css/land_System.JPG)https://github.com/itzParthT/Land-Record-Management-System/blob/main/assets/css/land_System.JPG" alt="Italian Trulli">
+![land_System](https://github.com/itzParthT/Land-Record-Management-System/blob/main/assets/css/land_System.JPG)
+
